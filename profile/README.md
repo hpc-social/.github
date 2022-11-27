@@ -1,0 +1,22 @@
+# Welcome to hpc.social! 😎️
+
+We are a community of high performance computing practitioners and friends.
+This is our Github space, and some links to help you find what you are looking
+for.
+
+## Community
+
+- [hpc.social](https://hpc.social): visit our main community portal at hpc.social!
+- [Community Map](https://hpc.social/map/): to see centers and groups and community members, or [add yourself to the map](https://hpc.social/projects/map/)
+- [Community Projects](https://hpc.social/projects/): showcasing initiatives from our community
+
+## Mastodon
+
+<img src="https://img.shields.io/badge/dynamic/json?label=Accounts&query=stats.user_count&url=https%3A%2F%2Fmast.hpc.social%2Fapi%2Fv1%2Finstance"/><br>
+
+- [About our Mastodon](https://mast.hpc.social/about): hosted at [mast.hpc.social](https://mast.hpc.social) where we connect and have fun discussion!
+- [Join Us On Mastodon](https://mast.hpc.social/auth/sign_up): a direct sign-up link to create an account. 
+- [Profiles](https://mast.hpc.social/directory): profiles directory to find people on our server and elsewhere
+- [Invite People to Mastodon](https://mast.hpc.social/invites): once you've signed up (including option to send them a link to follow you)
+- [Privacy Policy](https://mast.hpc.social/privacy-policy): and see also links in the "About" starting page
+- [Discussion and Issues](https://github.com/hpc-social/mastodon-instance-and-policies): questions, discussions, or other public discourse about the server.
