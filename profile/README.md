@@ -9,6 +9,7 @@ for.
 - [hpc.social](https://hpc.social): visit our main community portal at hpc.social!
 - [Community Map](https://hpc.social/map/): to see centers and groups and community members, or [add yourself to the map](https://hpc.social/projects/map/)
 - [Community Projects](https://hpc.social/projects/): showcasing initiatives from our community
+- [Community Syndicated Blog](https://hpc.social/blog/): the voices of our community, all in one place.
 
 ## Mastodon
 
