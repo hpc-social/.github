@@ -8,9 +8,10 @@ for.
 
 - [hpc.social](https://hpc.social): visit our main community portal at hpc.social!
 - [Community Map](https://hpc.social/map/): to see centers and groups and community members, or [add yourself to the map](https://hpc.social/projects/map/)
-- [Community Projects](https://hpc.social/projects/): showcasing initiatives from our community
-- [Community Syndicated Blogs](https://hpc.social/blog/): the voices of our community, all in one place.
+- [Projects](https://hpc.social/projects/): showcasing initiatives from our community
+- [Syndicated Blogs](https://hpc.social/blog/): the voices of our community, all in one place.
 - [Community and Project Discussions](https://github.com/hpc-social/hpc-social.github.io/discussions): share your thoughts on ideas and add your own!
+- [Jobs](https://hpc.social/jobs/): share and find opportunities in our community
 
 ## Mastodon
 
@@ -18,6 +19,7 @@ for.
 
 - [About our Mastodon](https://mast.hpc.social/about): hosted at [mast.hpc.social](https://mast.hpc.social) where we connect and have fun discussion!
 - [Join Us On Mastodon](https://mast.hpc.social/auth/sign_up): a direct sign-up link to create an account. 
+- [Jobs Bot](https://mast.hpc.social/@jobs): say hello 👋 to our jobs bot on Mastodon! 
 - [Profiles](https://mast.hpc.social/directory): profiles directory to find people on our server and elsewhere
 - [Invite People to Mastodon](https://mast.hpc.social/invites): once you've signed up (including option to send them a link to follow you)
 - [Privacy Policy](https://mast.hpc.social/privacy-policy): and see also links in the "About" starting page
