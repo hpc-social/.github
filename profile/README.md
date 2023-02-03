@@ -12,7 +12,7 @@ for.
 - [Syndicated Blogs](https://hpc.social/blog/): the voices of our community, all in one place.
 - [Community and Project Discussions](https://github.com/hpc-social/hpc-social.github.io/discussions): share your thoughts on ideas and add your own!
 - [Jobs](https://hpc.social/jobs/): share and find opportunities in our community
-- [Support Us](https://github.com/sponsors/hpc-social): via GitHub sponsors!
+- [Support Us](https://github.com/sponsors/hpc-social): via GitHub sponsors! [See our current organizational sponsor list here](https://hpc.social/sponsors/).
 
 ## Mastodon
 
