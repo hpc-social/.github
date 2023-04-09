@@ -10,6 +10,7 @@ for.
 - [Community Map](https://hpc.social/map/): to see centers and groups and community members, or [add yourself to the map](https://hpc.social/projects/map/)
 - [Projects](https://hpc.social/projects/): showcasing initiatives from our community
 - [Syndicated Blogs](https://hpc.social/blog/): the voices of our community, all in one place.
+- [Good First Issues](https://hpc.social/good-first-issues/): An automated curation of good first issues for HPC and research software.
 - [Community and Project Discussions](https://github.com/hpc-social/hpc-social.github.io/discussions): share your thoughts on ideas and add your own!
 - [Jobs](https://hpc.social/jobs/): share and find opportunities in our community
 - [Support Us](https://github.com/sponsors/hpc-social): via GitHub sponsors! [See our current organizational sponsor list here](https://hpc.social/sponsors/).
