@@ -13,7 +13,7 @@ for.
 - [Good First Issues](https://hpc.social/good-first-issues/): An automated curation of good first issues for HPC and research software.
 - [Community and Project Discussions](https://github.com/hpc-social/hpc-social.github.io/discussions): share your thoughts on ideas and add your own!
 - [Jobs](https://hpc.social/jobs/): share and find opportunities in our community
-- [Support Us](https://github.com/sponsors/hpc-social): via GitHub sponsors! [See our current organizational sponsor list here](https://hpc.social/sponsors/).
+- [Support Us](https://github.com/sponsors/hpc-social): via GitHub sponsors! [See our current sponsor list here](https://hpc.social/sponsors/).
 
 ## Mastodon
 
