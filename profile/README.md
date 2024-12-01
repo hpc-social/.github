@@ -12,6 +12,7 @@ for.
 - [Jobs Board](https://hpc.social/jobs/): share and find opportunities in our community
 - [HPC Hallway](https://hpc-hallway.github.io/The-Hallway/): an open, informal weekly online videocall of people talking about HPC topics
 - [Syndicated Blogs](https://hpc.social/blog/): the voices of our community, all in one place.
+- [Chat](https://hpc.social/projects/chat/) on Slack and/or Discord.
 - [Good First Issues](https://hpc.social/good-first-issues/): an automated curation of good first issues for HPC and research software.
 - [Community and Project Discussions](https://github.com/hpc-social/hpc-social.github.io/discussions): share your thoughts on ideas and add your own!
 - [hpc.social on BlueSky](https://bsky.app/profile/hpc.social): follow along on BlueSky and join the conversation! (Be sure to use the #HPC tag so we can find you.)
